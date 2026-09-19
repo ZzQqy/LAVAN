@@ -1,0 +1,20 @@
+{
+  "label_column": "<LABEL_COLUMN>",
+  "window_seconds": 32,
+  "height_variable": "<HEIGHT_VARIABLE>",
+  "directional_variables": ["<DIRECTIONAL_VARIABLE>"],
+  "discrete_variables": ["<DISCRETE_VARIABLE>"],
+  "features": [
+    {
+      "name": "<FEATURE_NAME>",
+      "file": "<FEATURE_FILE>.csv",
+      "frequency": 1
+    },
+    {
+      "name": "<HEIGHT_VARIABLE>",
+      "file": "<HEIGHT_FEATURE_FILE>.csv",
+      "frequency": 4
+    }
+  ]
+}
+
